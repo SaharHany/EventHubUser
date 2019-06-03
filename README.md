@@ -1,5 +1,6 @@
 # EventHubUser
 AndroidVersion of EventHubUser App - GP-ITI
+
 Package "com.iti.eventhubuser"
 
 minSdkVersion 19
